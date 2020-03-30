@@ -1,0 +1,24 @@
+.main-section small{
+	font-size: 12px;
+}
+.main-section h3, .main-section h5{
+	margin: 0px;
+}
+.main-section{
+	width: 960px;
+	background-color: #fff;
+	margin: auto;
+}
+
+.head-section{
+	border-bottom:1px solid #E6E6E6;
+	clear: both;
+	overflow: hidden;
+	width: 100%;
+}
+
+.body-section{
+	clear: both;
+	overflow: hidden;
+	width: 100%;
+}

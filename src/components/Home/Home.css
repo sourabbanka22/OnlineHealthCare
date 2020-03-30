@@ -1,0 +1,54 @@
+/*@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+
+.Home {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Open Sans", sans-serif;
+}
+
+//Button
+.btn {
+  font-size: 21px;
+  padding: 5px 20px;
+  border: 0;
+  background-color: #3498db;
+  color: #fff;
+  border-radius: 3px;
+  transition: all 250ms ease-in-out;
+  cursor: pointer;
+  &:hover {
+    background-color: #2386c8;
+  }
+  &:focus {
+    outline: none;
+  }
+}
+*/
+
+@import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
+.Home {
+	 text-align: center;
+	 display: flex;
+	 justify-content: center;
+	 align-items: center;
+	 font-family: "Open Sans", sans-serif;
+}
+ .btn {
+	 font-size: 21px;
+	 padding: 5px 20px;
+	 border: 0;
+	 background-color: #3498db;
+	 color: #fff;
+	 border-radius: 3px;
+	 transition: all 250ms ease-in-out;
+	 cursor: pointer;
+}
+ .btn:hover {
+	 background-color: #2386c8;
+}
+ .btn:focus {
+	 outline: none;
+}
+ 
